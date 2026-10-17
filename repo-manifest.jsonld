@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/pymc-devs/pytensor/commit/ce6df07fd243c5d372d84e30078fe2abd03f81d2",
       "git:hexsha": "ce6df07fd243c5d372d84e30078fe2abd03f81d2",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "rel-3.3.4"
     },
     {
