@@ -1,0 +1,11 @@
+{
+  "org": "pymc-devs",
+  "repo": "pytensor",
+  "versions": [
+    {
+      "commit": "ce6df07fd243c5d372d84e30078fe2abd03f81d2",
+      "tag": "rel-3.3.4",
+      "parsed_at": "2026-10-17T05:00:42.961345+00:00"
+    }
+  ]
+}
